@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 <!-- ### Languages and Tools: -->
 
+<p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=NekoSilverfox&show_icons=true"/>
-
-<p>  
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  超棒的取色网站：https://htmlcolorcodes.com/zh/
   -->
   <code><img width="7%" fill="F92377" src="https://raw.githubusercontent.com/NekoSilverFox/NekoSilverfox/master/icons/cplusplus.svg"></code>
   <code><img width="7%" fill="643739" src="https://github.com/NekoSilverFox/NekoSilverfox/raw/master/icons/java.svg"></code>
@@ -33,7 +33,23 @@ Here are some ideas to get you started:
   <code><img width="7%" fill="F92323" src="https://github.com/NekoSilverFox/NekoSilverfox/raw/master/icons/github.svg"></code>
   <code><img width="7%" fill="23A1F9" src="https://github.com/NekoSilverFox/NekoSilverfox/raw/master/icons/nextcloud.svg"></code>
   <code><img width="7%" fill="23F9EC" src="https://github.com/NekoSilverFox/NekoSilverfox/raw/master/icons/furrynetwork.svg"></code>
-<br />
 </p>
   
-<img align="right" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=NekoSilverfox&layout=compact"/>
+<p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoSilverfox&layout=compact"/>
+- 🔭 I’m currently working on `狐行狐语 | Bilibili`
+- 🌱 I’m currently learning `C++ | Java | Assembly | Sacal`
+- 👀 I’m looking to collaborate on `🐾 | Drone | Automation | Smart home | Live2D | 🐾`
+- 💬 Ask me about `What I know UWU`
+- 📫 How to reach me: `https://foxthere.com/board/`
+- 🌏 Available languages for me `中文 | 日本語 | English | Русский язык`
+- 📊 Website [狐行狐语](https://foxthere.com/)
+- ⚡ Fun fact: ↓
+  - [√] Drug effectiveness evaluation and verification
+  - [√] Video production
+  - [√] Drone manufacturing
+  - [√] Daily autism
+  - [√] 🐾
+
+</p>
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NekoSilverfox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
