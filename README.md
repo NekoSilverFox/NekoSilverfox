@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 <!-- ### Languages and Tools: -->
 
-<p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=NekoSilverfox&show_icons=true"/>
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
@@ -33,7 +32,6 @@ Here are some ideas to get you started:
   <code><img width="7%" fill="F92323" src="https://github.com/NekoSilverFox/NekoSilverfox/raw/master/icons/github.svg"></code>
   <code><img width="7%" fill="23A1F9" src="https://github.com/NekoSilverFox/NekoSilverfox/raw/master/icons/nextcloud.svg"></code>
   <code><img width="7%" fill="23F9EC" src="https://github.com/NekoSilverFox/NekoSilverfox/raw/master/icons/furrynetwork.svg"></code>
-</p>
   
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoSilverfox&layout=compact"/>
