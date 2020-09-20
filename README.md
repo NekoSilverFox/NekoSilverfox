@@ -13,7 +13,8 @@
   <code><img width="7%" fill="C2F923" src="https://github.com/NekoSilverFox/NekoSilverfox/raw/master/icons/centos.svg"></code>
   <code><img width="7%" fill="23A1F9" src="https://github.com/NekoSilverFox/NekoSilverfox/raw/master/icons/nextcloud.svg"></code>
 
-<img align="right" title=" " src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoSilverfox&show_icons=true&theme=vue"/>
+</br>
+<img align="right" title="\（￣︶￣）/ " src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoSilverfox&show_icons=true&theme=vue"/>
 
  **Hi there 🐾 冰糖雪狸 ( • ̀ω•́ )✧**  </br>
 - 🔭 I’m currently working on `狐行狐语 | Bilibili`  </br>
