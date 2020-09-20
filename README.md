@@ -34,8 +34,4 @@ Here are some ideas to get you started:
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 
-
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NekoSilverfox&show_icons=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NekoSilverfox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
