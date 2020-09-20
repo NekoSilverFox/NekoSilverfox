@@ -1,19 +1,3 @@
-<!--
-**NekoSilverFox/NekoSilverfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- ### Languages and Tools: -->
-
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=NekoSilverfox&show_icons=true"/>
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
@@ -33,7 +17,8 @@ Here are some ideas to get you started:
   
   
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoSilverfox&layout=compact"/>
- **Hi there 🐾 冰糖雪狸 ( • ̀ω•́ )✧ **  </br>
+ **Hi there 🐾 冰糖雪狸 ( • ̀ω•́ )✧**  </br>
+ 
 - 🔭 I’m currently working on `狐行狐语 | Bilibili`  </br>
 - 🌱 I’m currently learning `C++ | Java | Assembly | Sacal`  </br>
 - 👀 I’m looking to collaborate on `Drone | Automation | Smart home | Live2D | 🐾`  </br>
@@ -42,8 +27,8 @@ Here are some ideas to get you started:
 - 🌏 Available languages for me `中文 | 日本語 | English | Русский язык`  </br>
 - 📊 Website [狐行狐语](https://foxthere.com/)  </br>
 - ⚡ Fun fact: ↓  </br>
-  - [√] Drug effectiveness evaluation and verification  </br>
-  - [√] Video production  </br>
-  - [√] Drone manufacturing  </br>
-  - [√] Daily autism  </br>
-  - [√] 🐾  </br>
+  - [x] Drug effectiveness evaluation and verification  </br>
+  - [x] Video production  </br>
+  - [x] Drone manufacturing  </br>
+  - [x] Daily autism  </br>
+  - [x] 🐾  </br>
