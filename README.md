@@ -35,9 +35,10 @@ Here are some ideas to get you started:
   <code><img width="7%" fill="23F9EC" src="https://github.com/NekoSilverFox/NekoSilverfox/raw/master/icons/furrynetwork.svg"></code>
 </p>
   
-<p>
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoSilverfox&layout=compact"/>
-- 🔭 I’m currently working on `狐行狐语 | Bilibili`
+  ### Hi there 🐾 冰糖雪狸 ( • ̀ω•́ )✧
+- 🔭 I’m currently working on `狐行狐语 | Bilibili` 
 - 🌱 I’m currently learning `C++ | Java | Assembly | Sacal`
 - 👀 I’m looking to collaborate on `🐾 | Drone | Automation | Smart home | Live2D | 🐾`
 - 💬 Ask me about `What I know UWU`
@@ -51,5 +52,4 @@ Here are some ideas to get you started:
   - [√] Daily autism
   - [√] 🐾
 
-</p>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NekoSilverfox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
