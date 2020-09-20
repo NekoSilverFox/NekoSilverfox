@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   
   
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoSilverfox&layout=compact"/>
-  ### Hi there 🐾 冰糖雪狸 ( • ̀ω•́ )✧  </br>
+ **Hi there 🐾 冰糖雪狸 ( • ̀ω•́ )✧ **  </br>
 - 🔭 I’m currently working on `狐行狐语 | Bilibili`  </br>
 - 🌱 I’m currently learning `C++ | Java | Assembly | Sacal`  </br>
 - 👀 I’m looking to collaborate on `Drone | Automation | Smart home | Live2D | 🐾`  </br>
