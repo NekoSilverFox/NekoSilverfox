@@ -33,17 +33,17 @@ Here are some ideas to get you started:
   
   
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoSilverfox&layout=compact"/>
-  ### Hi there 🐾 冰糖雪狸 ( • ̀ω•́ )✧  
-- 🔭 I’m currently working on `狐行狐语 | Bilibili`  
-- 🌱 I’m currently learning `C++ | Java | Assembly | Sacal`  
-- 👀 I’m looking to collaborate on `Drone | Automation | Smart home | Live2D | 🐾`  
-- 💬 Ask me about `What I know UWU`  
-- 📫 How to reach me: `https://foxthere.com/board/`  
-- 🌏 Available languages for me `中文 | 日本語 | English | Русский язык`  
-- 📊 Website [狐行狐语](https://foxthere.com/)  
-- ⚡ Fun fact: ↓  
-  - [√] Drug effectiveness evaluation and verification  
-  - [√] Video production  
-  - [√] Drone manufacturing  
-  - [√] Daily autism  
-  - [√] 🐾  
+  ### Hi there 🐾 冰糖雪狸 ( • ̀ω•́ )✧  </br>
+- 🔭 I’m currently working on `狐行狐语 | Bilibili`  </br>
+- 🌱 I’m currently learning `C++ | Java | Assembly | Sacal`  </br>
+- 👀 I’m looking to collaborate on `Drone | Automation | Smart home | Live2D | 🐾`  </br>
+- 💬 Ask me about `What I know UWU`  </br>
+- 📫 How to reach me: `https://foxthere.com/board/`  </br>
+- 🌏 Available languages for me `中文 | 日本語 | English | Русский язык`  </br>
+- 📊 Website [狐行狐语](https://foxthere.com/)  </br>
+- ⚡ Fun fact: ↓  </br>
+  - [√] Drug effectiveness evaluation and verification  </br>
+  - [√] Video production  </br>
+  - [√] Drone manufacturing  </br>
+  - [√] Daily autism  </br>
+  - [√] 🐾  </br>
