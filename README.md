@@ -15,7 +15,6 @@
 
 <a>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoSilverfox&show_icons=true&theme=vue" />
-</a>
 
  **Hi there 🐾 冰糖雪狸 ( • ̀ω•́ )✧**  </br>
 - 🔭 I’m currently working on `狐行狐语 | Bilibili`  </br>
@@ -28,3 +27,4 @@
   - [x] Drug effectiveness evaluation and verification  </br>
   - [x] Drone manufacturing  </br>
   - [x] 🐾 真的有那么毛茸茸吗 (*￣∇￣*)  </br>
+</a>
