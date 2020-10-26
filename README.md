@@ -21,9 +21,9 @@
 - 🔭 I’m currently working on `狐行狐语 | Bilibili`  </br>
 - 🌱 I’m currently learning `C++ | Java | Assembly | Scala`  </br>
 - 👀 I’m looking to collaborate on `Drone | Automation | Live2D | 🐾`  </br>
-- 📫 How to reach me: [留言板](https://foxthere.com/board/)  </br>
+- 📫 How to reach me: [message board](https://foxthere.com/board/)  </br>
 - 🌏 Available languages for me `中文 | 日本語 | English | Русский язык`  </br>
-- 📊 Website [狐行狐语](https://foxthere.com/)  </br>
+- 📊 Website [foxthere](https://foxthere.com/)  </br>
 - ⚡ Fun fact:  ↓  </br>
   - [x] Drug effectiveness evaluation and verification  </br>
   - [x] Drone manufacturing  </br>
