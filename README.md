@@ -1,4 +1,4 @@
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=NekoSilverfox&hide=contribs,issues,HTML&count_private=true&show_icons=true"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=NekoSilverfox&hide=contribs,issues&count_private=true&show_icons=true"/>
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   超棒的取色网站：https://htmlcolorcodes.com/zh/
@@ -15,7 +15,7 @@
 
 <a>
   <img align="center" src="https://github.com/NekoSilverFox/NekoSilverfox/blob/master/icons/wri.png"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoSilverfox&show_icons=true&theme=vue" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoSilverfox&show_icons=true&theme=vue&hide=HTML" />
 
  **Hi there 🐾 冰糖雪狸 ( • ̀ω•́ )✧**  </br>
 - 🔭 I’m currently working on `狐行狐语 | Bilibili`  </br>
