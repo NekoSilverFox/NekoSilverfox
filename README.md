@@ -1,4 +1,4 @@
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=NekoSilverfox&count_private=true&show_icons=true"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=NekoSilverfox&hide=contribs,issues&count_private=true&show_icons=true"/>
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   超棒的取色网站：https://htmlcolorcodes.com/zh/
