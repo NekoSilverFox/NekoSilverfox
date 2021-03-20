@@ -16,7 +16,7 @@
   -->
   <code><img width="260" height="150" src="https://github.com/NekoSilverFox/NekoSilverfox/raw/master/icons/fox.png"></code>
 <a>
-  <img align="center" src="https://github.com/NekoSilverFox/NekoSilverfox/blob/master/icons/wri.png"/>
+  <!--<img align="center" src="https://github.com/NekoSilverFox/NekoSilverfox/blob/master/icons/wri.png"/>-->
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoSilverfox&show_icons=true&theme=vue" />
 
  **Hi there 🐾 冰糖雪狸 ( • ̀ω•́ )✧**  </br>
