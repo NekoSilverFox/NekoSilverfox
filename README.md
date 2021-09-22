@@ -1,10 +1,10 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=NekoSilverfox&hide=contribs,issues&count_private=true&show_icons=true"/>
+
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   超棒的取色网站：https://htmlcolorcodes.com/zh/
   -->
   
-
   <code><img width="7%" fill="F92377" src="https://raw.githubusercontent.com/NekoSilverFox/NekoSilverfox/master/icons/cplusplus.svg"></code>
   <code><img width="7%" fill="643739" src="https://github.com/NekoSilverFox/NekoSilverfox/raw/master/icons/java.svg"></code>
   <code><img width="7%" fill="49EE78" src="https://github.com/NekoSilverFox/NekoSilverfox/raw/master/icons/python.svg"></code>
@@ -26,10 +26,10 @@
  **Hi there 🐾 冰糖雪狸 ( • ̀ω•́ )✧**  </br>
 - 🔭 I’m currently working on `狐行狐语 | Bilibili`  </br>
 - 🌱 I’m currently learning `C++ | Java | Python | Assembly`  </br>
-- 👀 I’m looking to collaborate on `Drone | Automation | Live2D | 🐾`  </br>
-- 📫 How to reach me: [message board](https://foxthere.com/board/)  </br>
+- 👀 I’m looking to collaborate on `Zynq | Automation | live2D | 🐾`  </br>
+- 📫 How to reach me: [message board](https://ourmcdreams.com/board/)  </br>
 - 🌏 Available languages for me `中文 | 日本語 | English | Русский язык`  </br>
-- 📊 Website [foxthere](https://foxthere.com/)  </br>
+- 📊 Website [OurMCDreams](https://ourmcdreams.com/)·[银狐云](https://silverfoxcloud.com/)·[foxthere(discontinued)](https://foxthere.com/)·  </br>
 - ⚡ Fun fact:  ↓  </br>
   - [x] Drug effectiveness evaluation and verification  </br>
   - [x] Drone manufacturing  </br>
