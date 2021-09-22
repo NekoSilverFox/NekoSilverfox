@@ -29,7 +29,7 @@
 - 👀 I’m looking to collaborate on `Zynq | Automation | live2D | 🐾`  </br>
 - 📫 How to reach me: [message board](https://ourmcdreams.com/board/)  </br>
 - 🌏 Available languages for me `中文 | 日本語 | English | Русский язык`  </br>
-- 📊 Website [OurMCDreams](https://ourmcdreams.com/)·[银狐云](https://silverfoxcloud.com/)·[foxthere(discontinued)](https://foxthere.com/)·  </br>
+- 📊 Website [OurMCDreams](https://ourmcdreams.com/) · [银狐云](https://silverfoxcloud.com/) · [foxthere(discontinued)](https://foxthere.com/)</br>
 - ⚡ Fun fact:  ↓  </br>
   - [x] Drug effectiveness evaluation and verification  </br>
   - [x] Drone manufacturing  </br>
