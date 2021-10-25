@@ -21,7 +21,7 @@
 
 <a>
   <img align="center" src="https://github.com/NekoSilverFox/NekoSilverfox/blob/master/icons/wri.png" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoSilverfox&show_icons=true&theme=vue" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoSilverfox&show_icons=true&theme=vue&hide=HTML,VHDL,V,Verilog,SystemVerilog,V,Ada,Tcl,SuperCollider,Stata" />
 
  **Hi there 🐾 冰糖雪狸 ( • ̀ω•́ )✧**  </br>
 - 🔭 I’m currently working on `狐行狐语 | Bilibili`  </br>
