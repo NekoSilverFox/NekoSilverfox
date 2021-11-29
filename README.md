@@ -1,11 +1,13 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=NekoSilverfox&hide=contribs,issues&count_private=true&show_icons=true"/>
     <p align="center">
+    <i>
     不要温顺地走进那个良夜 </br>
-    被黑暗吞噬的光明迸发着惨淡 </br>
+    被黑暗吞噬地垂暮迸发着惨淡 </br>
     怒斥，怒斥光明的消逝 </br>
     我们终将知道黑暗有理 </br>
     但仍想闪耀残光 </br>
     不要温顺地走进那个良夜 </br>
+    </i>
     </p>
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
