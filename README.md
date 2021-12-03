@@ -3,7 +3,7 @@
     <i>
     不要温顺地走进那个良夜 </br>
     被黑暗吞噬地垂暮迸发着惨淡 </br>
-    怒斥，怒斥光明的消逝 </br>
+    怒斥，怒斥着那光明的消逝 </br>
     我们终将知道黑暗有理 </br>
     但仍想闪耀残光 </br>
     不要温顺地走进那个良夜 </br>
@@ -32,7 +32,7 @@
 
  **Hi there 🐾 冰糖雪狸 ( • ̀ω•́ )✧**  </br>
 - 🔭 I’m currently working on `狐行狐语 | Bilibili`  </br>
-- 🌱 I’m currently learning `C++ | Java | Python | Assembly`  </br>
+- 🌱 I’m currently learning `FPGA | Mathematical logic | Queueing Systems`  </br>
 - 👀 I’m looking to collaborate on `Zynq | Automation | live2D | 🐾`  </br>
 - 📫 How to reach me: [message board](https://ourmcdreams.com/board/)  </br>
 - 🌏 Available languages for me `中文 | 日本語 | English | Русский язык`  </br>
