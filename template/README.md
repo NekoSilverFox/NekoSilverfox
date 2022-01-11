@@ -38,3 +38,20 @@
 <!-- SPbSTU 最后一行 -->
 
 
+
+<!-- SPbSTU  -->
+<h1 align="center"></h1>
+ <p align="center">
+  <img width="250px" src="https://raw.githubusercontent.com/NekoSilverFox/NekoSilverfox/403ab045b7d9adeaaf8186c451af7243f5d8f46d/icons/logo_building_spbstu.png" align="center" alt="silverfox" />
+  </br>
+  </br>
+  <b><b>Санкт-Петербургский государственный политехнический университет</b></br></b>
+  <b>Институт компьютерных наук и технологий</b>
+  <h1 align="center"></h1>
+ </p>
+ <p align="center"></p>
+</p>
+
+<div align=left>
+<!-- SPbSTU 最后一行 -->
+
