@@ -1,11 +1,10 @@
-<p align="center">
+<div align="center">
+
+<p>
  <img width="100px" src="https://raw.githubusercontent.com/NekoSilverFox/NekoSilverfox/403ab045b7d9adeaaf8186c451af7243f5d8f46d/icons/silverfox.svg" align="center" alt="NekoSilverfox" />
  <p align="center"><b><font size=6>主标题</font></b></p>
  <p align="center"><b>子标题（说明）</b></p>
 </p>
-
-
-<div align=center>
 
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-brightgreen)](LICENSE)
@@ -17,7 +16,7 @@
 ![Kernel](https://img.shields.io/badge/Kernel-Linux%20v4.14-yellow)
 
 
-<div align=left>
+<div align="left">
 <!-- 顶部至此截止 -->
 
 
@@ -29,31 +28,29 @@
   </br>
   <b><font size=4>Санкт-Петербургский государственный политехнический университет</font></b></br>
   <b>Институт компьютерных наук и технологий</b>
- </p>
- <p align="center"></p>
-
 </p>
 
 <div align=left>
 <!-- SPbSTU 最后一行 -->
 
 
-
 <!-- SPbSTU  -->
 
- <p align="center">
+<p align="center">
   <img width="250px" src="https://github.com/NekoSilverFox/NekoSilverfox/blob/master/icons/logo_building_spbstu.png?raw=true" align="center" alt="ogo_building_spbstu" />
   </br>
   </br>
   <b><font size=4>Санкт-Петербургский государственный политехнический университет</font></b></br>
   <b>Институт компьютерных наук и технологий</b>
- </p>
- <p align="center"></p>
-
 </p>
 
 <div align=left>
 <!-- SPbSTU 最后一行 -->
+
+
+
+[toc]
+
 
 
 # 一级标题开始处
