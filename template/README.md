@@ -36,13 +36,19 @@
 
 <!-- SPbSTU  -->
 
-<p align="center">
+<div align="center">
   <img width="250px" src="https://github.com/NekoSilverFox/NekoSilverfox/blob/master/icons/logo_building_spbstu.png?raw=true" align="center" alt="ogo_building_spbstu" />
   </br>
+  <b><font size=2>Министерство науки и высшего образования Российской Федерации</font></b>
   </br>
-  <b><font size=4>Санкт-Петербургский государственный политехнический университет</font></b></br>
-  <b>Институт компьютерных наук и технологий</b>
-</p>
+  <b><font size=2>Федеральное государственное автономное образовательное учреждение высшего образования</font></b>
+  </br>
+  <b><font size=3>Санкт-Петербургский политехнический университет Петра Великого</font></b>
+  </br>
+  <b><font size=2>Институт компьютерных наук и технологий</font></b>
+  </br>
+  <b><font size=2>Высшая школа программной инженерии</font></b>
+</div>
 
 <div align=left>
 <!-- SPbSTU 最后一行 -->
