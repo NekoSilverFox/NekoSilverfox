@@ -31,7 +31,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoSilverfox&show_icons=true&theme=vue&hide=HTML,VHDL,V,Verilog,SystemVerilog,V,Ada,Tcl,SuperCollider,Stata" />
 
  **Hi there 🐾 冰糖雪狸 ( • ̀ω•́ )✧**  </br>
-- 🔭 I’m currently working(studying) at `Bilibili | 圣彼得堡国立理工大学`  </br>
+- 🔭 I’m currently working(studying) at `Bilibili | SPbSTU`  </br>
 - 🌱 I’m currently learning `FPGA | OpenGL | Queueing Systems`  </br>
 - 👀 I’m looking to collaborate on `Zynq | Automation | live2D | 🐾`  </br>
 - 📫 How to reach me: [message board](https://ourmcdreams.com/board/)  </br>
