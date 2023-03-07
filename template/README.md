@@ -20,28 +20,11 @@
 <!-- 顶部至此截止 -->
 
 
-
-<!-- SPbSTU  -->
- <p align="center">
-  <img width="250px" src="https://raw.githubusercontent.com/NekoSilverFox/NekoSilverfox/403ab045b7d9adeaaf8186c451af7243f5d8f46d/icons/new_logo_spbstu_ru.svg" align="center" alt="new_logo_spbstu_ru" />
-  </br>
-  </br>
-  <b><font size=4>Санкт-Петербургский государственный политехнический университет</font></b></br>
-  <b>Институт компьютерных наук и технологий</b>
-</p>
-
-<div align=left>
-<!-- SPbSTU 最后一行 -->
-
-
-<!-- SPbSTU  -->
+<!-- SPbSTU 报告起始 -->
 
 <div align="center">
-  <img width="250px" src="https://github.com/NekoSilverFox/NekoSilverfox/blob/master/icons/logo_building_spbstu.png?raw=true" align="center" alt="ogo_building_spbstu" />
-  </br>
-  <b><font size=2>Министерство науки и высшего образования Российской Федерации</font></b>
-  </br>
-  <b><font size=2>Федеральное государственное автономное образовательное учреждение высшего образования</font></b>
+  <!--<img width="250px" src="https://raw.githubusercontent.com/NekoSilverFox/NekoSilverfox/403ab045b7d9adeaaf8186c451af7243f5d8f46d/icons/new_logo_spbstu_ru.svg" align="center" alt="new_logo_spbstu_ru" />  新式 π logo -->
+  <img width="250px" src="https://github.com/NekoSilverFox/NekoSilverfox/blob/master/icons/logo_building_spbstu.png?raw=true" align="center" alt="logo_building_spbstu" /> <!-- 研究型大学 logo -->
   </br>
   <b><font size=3>Санкт-Петербургский политехнический университет Петра Великого</font></b>
   </br>
@@ -50,9 +33,16 @@
   <b><font size=2>Высшая школа программной инженерии</font></b>
 </div>
 
-<div align=left>
-<!-- SPbSTU 最后一行 -->
 
+<div align="center">
+<b><font size=6>主题</font></b>
+</div>
+
+[![License](https://img.shields.io/badge/license-Apache%202.0-brightgreen)](LICENSE)
+
+<div align=left>
+<div STYLE="page-break-after: always;"></div>
+<!-- SPbSTU 报告结束 -->
 
 
 [toc]
