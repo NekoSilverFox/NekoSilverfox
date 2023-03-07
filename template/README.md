@@ -36,10 +36,11 @@
 
 <div align="center">
 <b><font size=6>主题</font></b>
-</div>
+
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-brightgreen)](LICENSE)
 
+</div>
 <div align=left>
 <div STYLE="page-break-after: always;"></div>
 <!-- SPbSTU 报告结束 -->
