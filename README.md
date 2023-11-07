@@ -28,9 +28,9 @@
 - 👀 I’m looking to collaborate on `Zynq | Automation | live2D | 🐾`  </br>
 - 📫 How to reach me: [message board](https://ourmcdreams.com/board/)  </br>
 - 🌏 Available languages for me `中文 | 日本語 | English | Русский язык`  </br>
-- 📊 Website [OurMCDreams](https://ourmcdreams.com/) · [银狐云](https://silverfoxcloud.com/) · [foxthere(discontinued)](https://foxthere.com/)</br>
+<!--- 📊 Website [OurMCDreams](https://ourmcdreams.com/) · [银狐云](https://silverfoxcloud.com/) · [foxthere(discontinued)](https://foxthere.com/)</br>-->
 - ⚡ Fun fact:  ↓  </br>
   - [x] FPGA | ZYNQ | Raspberry Pi </br>
   - [x] Drone manufacturing  </br>
   - [x] 🐾 真的有那么毛茸茸吗 (*￣∇￣*)  </br>
-</a>
+  </a>
